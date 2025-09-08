@@ -2,7 +2,7 @@
 
 JS Guard is a web application designed to help developers and pentesters identify and mitigate security risks in their JavaScript code. By providing a domain or a list of script URLs, the tool automatically discovers and analyzes JavaScript files using Google's Gemini AI model, delivering a detailed and actionable security report.
 
-![JS Guard Screenshot](https://placehold.co/800x450/242933/E8EAED?text=JS%20Guard%20UI)
+![The main interface for scanning domains or URLs.](https://placehold.co/800x450/242933/E8EAED?text=JS%20Guard%20UI)
 *<p align="center">Caption: The main interface for scanning domains or URLs.</p>*
 
 ## Key Features
@@ -18,7 +18,7 @@ JS Guard is a web application designed to help developers and pentesters identif
 - **Large File Analysis:** Intelligently chunks large JavaScript files, analyzes each part, and merges the results to ensure complete coverage without hitting API rate limits.
 - **Interactive UI:** A clean, responsive interface built with Next.js, React, and ShadCN UI for a seamless user experience.
 
-![JS Guard Analysis Report](https://placehold.co/800x500/242933/E8EAED?text=Analysis%20Report)
+![A detailed, interactive report showing vulnerabilities and secrets.](https://placehold.co/800x500/242933/E8EAED?text=Analysis%20Report)
 *<p align="center">Caption: A detailed, interactive report showing vulnerabilities and secrets.</p>*
 
 ## The Vision: Evolving to a Specialized JS Security Model
